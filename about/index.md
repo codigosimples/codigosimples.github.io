@@ -1,37 +1,30 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Sobre o Código simples
+tags: [sobre, projetos]
+date: 2019-03-30
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://codigosimples.github.io"><b>Código Simples</b></a>Apenas simplificando o código.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Sobre
+Criado por um estudante de Sistemas de Informação para ajudar pessoas com dificuldades em matérias que elas julgam mais difíceis. O objetivo é transmitir a informação de um jeito simples e descomplicado, com exemplos práticos e do cotidiano.
 
-## Preview
+## Projetos
+### Tutoriais
+1. Arch Linux [ EM BREVE ]
+    1. Instalação
+    2. Pós Instalação
+    3. Customização
+    4. Utilizando o Pacman com MAESTRIA
+    5. Melhorando o desempenho do sistema
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+2. Windows 10 [ EM ANDAMENTO ]
+    1. Instalação
+    2. Pós Instalação
+    3. Customização
+    4. Windows para usuários avançados
+    5. Melhorando o desempenho do sistema
+    6. Configuração de Firewall
+    7. Segurança no Windows
